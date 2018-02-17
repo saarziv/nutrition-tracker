@@ -1,0 +1,12 @@
+{
+  "test":{
+    "PORT":3000,
+    "MONGODB_URI":"mongodb://localhost:27017/NutritionTrackerTest",
+    "JWT_SECRET":"jdi202bngfhjls043ggdfgd2rffds423sdfsa"
+  },
+  "development":{
+    "PORT":3000,
+    "MONGODB_URI":"mongodb://localhost:27017/NutritionTracker",
+    "JWT_SECRET":"jdasfn204m23nfpasmfsa023knrt0gmsdg932"
+  }
+}
